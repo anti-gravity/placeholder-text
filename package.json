@@ -13,12 +13,6 @@
   },
   "author": "case <case@casesandberg.com>",
   "license": "MIT",
-  "eslintConfig": {
-    "extends": "@case/eslint-config",
-    "env": {
-      "jest": true
-    }
-  },
   "devDependencies": {
     "@case/eslint-config": "^0.1.4",
     "babel-cli": "^6.24.0",
